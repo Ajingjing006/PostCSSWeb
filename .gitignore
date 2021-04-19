@@ -1,0 +1,390 @@
+BO5194 Software and hardware list.docx
+example.css
+example.min.css
+example.css.map
+example.min.css.map
+gulpfile.js
+package.json
+style.css
+slider.html
+style.css.map
+style.min.css
+OpenSans-Regular-webfont.eot
+OpenSans-Regular-webfont.svg
+OpenSans-Regular-webfont.ttf
+OpenSans-Regular-webfont.woff
+content.html
+style - post-compile version.css
+style - pre-compile version.css
+bryce-canyon-utah.jpg
+hawk.jpg
+hobbiton-lake.jpg
+osprey.jpg
+square-tailed-kite.jpg
+utah-peak.jpg
+wanaka-drowned-tree.jpg
+white-tailed-kite.jpg
+style.json
+style.min.json
+site.css.map
+site - original version.css
+site - post compile version.css
+site - pre compile version.css
+site.min.css
+DroidSans-webfont.eot
+DroidSans-webfont.svg
+DroidSans-webfont.ttf
+DroidSans-webfont.woff
+abstract-banner-large.jpg
+abstract-banner-medium.jpg
+abstract-banner-small.jpg
+abstract.jpg
+abstract@2x.jpg
+abstract_small.jpg
+site.html
+bigbuckbunny-480px.mp4
+bigbuckbunny-480px.webm
+bootstrap.min.css
+csstyle.html
+_csstyle.scss
+style.scss
+cssstyle.html
+output.css
+styles.css
+styles.scss
+styles.css.map
+styles.html
+template-light.css
+.pleeeaserc
+styles - post compile.css
+styles - pre compile.css
+styles.min.css
+firasans-regular-webfont.eot
+firasans-regular-webfont.svg
+firasans-regular-webfont.ttf
+firasans-regular-webfont.woff
+firasans-regular-webfont.woff2
+background.png
+leaves.jpg
+sprites.png
+webpage.html
+accessibility.css
+alignments.css
+clearings.css
+content.css
+elements.css
+forms.css
+genericons.css
+media.css
+multisites.css
+navigation.css
+normalize.css
+print.css
+queries.css
+typography.css
+variables.css
+widgets.css
+matches.css.map
+matches - post-compile.css
+matches - pre-compile.css
+matches.min.css
+matches.html
+range.css.map
+range - base version.css
+range - post compile.css
+range - pre-compile.css
+range.min.css
+background.jpg
+jquery.min.js
+range.js
+range.html
+OLD styles.css
+hover.gif
+sitepage.html
+styles - post-compile.css
+styles - pre-compile.css
+testpage.html
+blendmode.html
+styles - base version.css
+br.png
+tr.png
+index.js
+style.min.css.map
+style - post compile.css
+style - pre compile.scss
+SourceSansPro-Regular.otf
+sourcesanspro-regular-webfont.eot
+sourcesanspro-regular-webfont.svg
+sourcesanspro-regular-webfont.ttf
+sourcesanspro-regular-webfont.woff
+sourcesanspro-regular-webfont.woff2
+webfontkit-20151003-151943.zip
+african violet.png
+phalaenopsis.png
+index.html
+style - pre compile.less
+style.less
+style - pre compile.css
+linkedin.png
+twitter.png
+youtube.png
+navigate.js
+style - pre-compile version.less
+error.png
+info.png
+success.png
+warning.png
+1.jpg
+2.jpg
+3.jpg
+.DS_Store
+fusionad.js
+modernizr.js
+style - post-compile.css
+style - pre-compile.css
+landscape.png
+paper-clip.png
+Roboto-Regular-demo.html
+Roboto-Regular-webfont.eot
+Roboto-Regular-webfont.svg
+Roboto-Regular-webfont.ttf
+Roboto-Regular-webfont.woff
+mothorchid.png
+mothorchid@2x.png
+Roboto.eot
+Roboto.svg
+Roboto.ttf
+Roboto.woff
+config.rb
+img-sb8cfeef5ac.png
+amex.png
+cirrus.png
+delta.png
+solo.png
+ie.scss
+print.scss
+screen.scss
+ie.css
+screen.css
+sprite.png
+index - post-compile.html
+index - pre-compile.html
+cwebp.exe
+landscape - original.jpg
+landscape.jpg
+landscape.webp
+paper-clip.webp
+_mixins.scss
+_variables.scss
+sample - post-compile.css
+_reset.scss
+sample.scss
+test - post-compile.css
+test - pre-compile.scss
+header.jpg
+samplesite.html
+sample.css.map
+reset.css
+sample.css
+sample - pre-compile.css
+sample.min.css.map
+sample.min.css
+animate.html
+jquery.transit.min.js
+animate.css
+velocity.min.js
+velocity.ui.min.js
+ORIGINAL animate.css
+ORIGINAL style.css
+.gitignore
+_animate.scss
+_bounce.scss
+_flash.scss
+_jello.scss
+_pulse.scss
+_rubberBand.scss
+_shake.scss
+_swing.scss
+_tada.scss
+_wobble.scss
+attention-seekers.scss
+_bounceIn.scss
+_bounceInDown.scss
+_bounceInLeft.scss
+_bounceInRight.scss
+_bounceInUp.scss
+bouncing-entrances.scss
+_bounceOut.scss
+_bounceOutDown.scss
+_bounceOutLeft.scss
+_bounceOutRight.scss
+_bounceOutUp.scss
+bouncing-exits.scss
+_fadeIn.scss
+_fadeInDown.scss
+_fadeInDownBig.scss
+_fadeInLeft.scss
+_fadeInLeftBig.scss
+_fadeInRight.scss
+_fadeInRightBig.scss
+_fadeInUp.scss
+_fadeInUpBig.scss
+fading-entrances.scss
+_fadeOut.scss
+_fadeOutDown.scss
+_fadeOutDownBig.scss
+_fadeOutLeft.scss
+_fadeOutLeftBig.scss
+_fadeOutRight.scss
+_fadeOutRightBig.scss
+_fadeOutUp.scss
+_fadeOutUpBig.scss
+fading-exits.scss
+_flip.scss
+_flipInX.scss
+_flipInY.scss
+_flipOutX.scss
+_flipOutY.scss
+flippers.scss
+_lightSpeedIn.scss
+_lightSpeedOut.scss
+lightspeed.scss
+_properties.scss
+_rotateIn.scss
+_rotateInDownLeft.scss
+_rotateInDownRight.scss
+_rotateInUpLeft.scss
+_rotateInUpRight.scss
+rotating-entrances.scss
+_rotateOut.scss
+_rotateOutDownLeft.scss
+_rotateOutDownRight.scss
+_rotateOutUpLeft.scss
+_rotateOutUpRight.scss
+rotating-exits.scss
+_slideInDown.scss
+_slideInLeft.scss
+_slideInRight.scss
+_slideInUp.scss
+sliding-entrances.scss
+_slideOutDown.scss
+_slideOutLeft.scss
+_slideOutRight.scss
+_slideOutUp.scss
+sliding-exits.scss
+_hinge.scss
+_rollIn.scss
+_rollOut.scss
+specials.scss
+_zoomIn.scss
+_zoomInDown.scss
+_zoomInLeft.scss
+_zoomInRight.scss
+_zoomInUp.scss
+zooming-entrances.scss
+_zoomOut.scss
+_zoomOutDown.scss
+_zoomOutLeft.scss
+_zoomOutRight.scss
+_zoomOutUp.scss
+zooming-exits.scss
+animation.html
+style - original.css
+license
+readme.md
+.npmignore
+.travis.yml
+LICENSE.md
+README.md
+base64.html
+base64.js
+base64.min.js
+base64_utf8
+bower.json
+base64-1.7.js
+package.js
+dankogai.js
+es5.js
+large.js
+yoshinoya.js
+CHANGELOG.md
+LICENSE
+at-rule.d.ts
+comment.d.ts
+container.d.ts
+css-syntax-error.d.ts
+declaration.d.ts
+input.d.ts
+lazy-result.d.ts
+list.d.ts
+map-generator.d.ts
+node.d.ts
+parse.d.ts
+parser.d.ts
+postcss.d.ts
+previous-map.d.ts
+processor.d.ts
+result.d.ts
+root.d.ts
+rule.d.ts
+stringifier.d.ts
+stringify.d.ts
+tokenize.d.ts
+vendor.d.ts
+warn-once.d.ts
+warning.d.ts
+api.md
+plugin.md
+runner.md
+plugins.md
+source-maps.md
+syntax.md
+writing-a-plugin.md
+at-rule.js
+comment.js
+container.js
+css-syntax-error.js
+declaration.js
+input.js
+lazy-result.js
+list.js
+map-generator.js
+node.js
+parse.js
+parser.js
+postcss.js
+previous-map.js
+processor.js
+result.js
+root.js
+rule.js
+stringifier.js
+stringify.js
+tokenize.js
+vendor.js
+warn-once.js
+warning.js
+source-map.debug.js
+source-map.js
+source-map.min.js
+source-map.min.js.map
+array-set.js
+base64-vlq.js
+binary-search.js
+mapping-list.js
+quick-sort.js
+source-map-consumer.js
+source-map-generator.js
+source-node.js
+util.js
+browser.js
+.editorconfig
+.eslintrc
+test.js
+easing.html
+style - pre-compile.css.map
+hacks - post-compile.css
+hacks - pre-compile.css
+hacks.min.css
+hacks.css.map
+hacks.min.css.map
