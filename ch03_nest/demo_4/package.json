@@ -1,0 +1,18 @@
+{
+  "name": "demo_4",
+  "version": "1.0.0",
+  "description": "This is a demo for BEM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Hou",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "postcss-bem": "^0.4.1",
+    "postcss-bem-linter": "^3.3.0",
+    "postcss-reporter": "^7.0.2"
+  }
+}
