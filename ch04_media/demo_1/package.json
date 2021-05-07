@@ -1,0 +1,17 @@
+{
+  "name": "demo_1",
+  "version": "1.0.0",
+  "description": "This a demo of media query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Hou",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "postcss-custom-media": "^8.0.0",
+    "postcss-reporter": "^7.0.2"
+  }
+}
