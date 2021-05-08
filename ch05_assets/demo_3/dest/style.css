@@ -1,0 +1,5 @@
+.amex { background-image: url(../img/sprite.png); background-position: 0px 0px; background-size: 204px 128px; background-color: #fff; }
+.cirrus { background-image: url(../img/sprite.png); background-position: -102px 0px; background-size: 204px 128px; }
+
+.delta { background-image: url(../img/sprite.png); background-position: 0px -64px; background-size: 204px 128px; }
+.solo { background-image: url(../img/sprite.png); background-position: -102px -64px; background-size: 204px 128px; }
