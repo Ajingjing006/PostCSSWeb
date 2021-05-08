@@ -175,3 +175,40 @@ tailwindcss: <https://github.com/tailwindlabs/tailwindcss>
       "last 3 versions"
    ]
    ```
+
+如果执行gulp命令遇到如下错误：  
+AssertionError [ERR_ASSERTION]: Task function must be specified  
+那是因为gulp的新版本不再支持旧的任务顺序语法书写：  
+
+```javascript
+gulp.task("lint-styles", ['styles'], function() {
+   ...
+}
+...
+
+gulp.task('default', ['styles', 'lint-styles', 'rename', 'sourcemap']);
+
+var watcher = gulp.watch('src/*.css', ['styles', 'lint-styles', 'rename', 'sourcemap']);
+watcher.on('change', function(event) {
+  console.log('File ' + event.path + ' was ' + event.type + ', running tasks...');
+});
+```
+
+请更正为：  
+
+```javascript
+gulp.task("lint-styles", function() {
+   ...
+}
+...
+
+gulp.task('watch', function(){
+  gulp.watch('src/*.css', gulp.series('default'))
+      .on('change', function(event){
+          console.log('File '+event+' was changed, running tasks...');
+  })
+});
+
+gulp.task('default', gulp.series('clean', 'styles', 'lint-styles', 'sourcemap', 'watch'));
+
+```

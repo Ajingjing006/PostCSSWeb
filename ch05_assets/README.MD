@@ -1,6 +1,7 @@
 # 第五章 管理颜色、图片和字体
 
 A picture prints a thousand word 百闻不如一见  
+<[Sass框架库Compass](http://www.compass-style.org)>  
 
 ## 为网站添加颜色、字体及媒体元素
 
@@ -121,13 +122,13 @@ Google的WebP格式图片，只有Chrome，Android和Opera支持。
 
 在不支持WebP高清图片的浏览器中，可以结合使用PostCSS和Modernizr实现相同效果。  
 
-> 将Tutorial23中的cwebp.exe和landscape-original.jpg，landscape.png，paper-clip.png复制到项目目录cwebp  
+> demo_5将Tutorial23中的cwebp.exe和landscape-original.jpg，landscape.png，paper-clip.png复制到项目目录cwebp  
 > Node命令窗口执行 cwebp -q 100 landscape.jpg -o landscape_jpg.webp  
 > Node命令窗口执行 cwebp -q 100 landscape.png -o landscape_png.webp  
 > Node命令窗口执行 cwebp -q 100 paper-clip.png -o paper-clip.webp  
 > 以上三步可以得到三个体积小，质量高的webp图片  
 
-下面通过PostCSS插件实现demo_5：  
+demo_5通过PostCSS插件实现：  
 
 > npm init  
 > npm i --save-dev gulp  
