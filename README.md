@@ -16,7 +16,8 @@
 
 ## 第三章 嵌套规则
 
-利用postcss-nesting插件转换嵌套样式，并介绍了BEM的基础知识，及相关插件的使用
+利用postcss-nesting插件转换嵌套样式，并介绍了BEM的基础知识，及相关插件的使用  
+<b style="color:red;">插件postcss-bem已停止更新，并且无法在最新的postcss下使用</b>  
 
 ## 第四章 创建媒体查询  
 
@@ -26,8 +27,14 @@
 
 通过PostCSS插件，良好的管理和搭配网站的颜色、图像和文字，如postcss-sprites创建雪碧图。利用cwebp.exe优化生成webp图片。  
 
-postcss-webp，postcss-webpcss插件使用未成功
+<b style="color:red;">postcss-webp，postcss-webpcss插件生成WebP图片未成功</b>  
 
 ## 第六章 创建网格  
 
 通过neat插件，创建网格，生成响应式网站  
+
+<b style="color:red;">插件node-bourbon和node-neat在编译sample.scss时报错</b>  
+
+## 第七章 动画元素
+
+使用动画库，或者PostCSS结合CSS3创建动画元素  

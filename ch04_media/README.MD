@@ -19,7 +19,7 @@
 查询媒体支持的设备：<[CSS media query](http://www.cssmediaqueries.com/)>  
 
 > npm init
-> npm i --save-dev gulp
+> npm i --save-dev gulp  
 > npm i --save-dev gulp-postcss  
 > npm i --save-dev postcss-custom-media  
 > npm i --save-dev cssnano  
@@ -51,16 +51,16 @@
 由于PostCSS的现有插件还不支持HTML5的最新标签&lt;picture&gt;，插件postcss-at2x可以实现高清屏加载高清图片的效果  
 
 先看一个用媒体查询实现的例子：  
-> npm init
-> npm i --save-dev gulp
+> npm init  
+> npm i --save-dev gulp  
 > npm i --save-dev gulp-postcss  
 > npm i --save-dev gulp-clean  
 > npm i --save-dev postcss-custom-media  
 
 使用高分辨率的图片，可以使用image-set()，<[postcss-image-set](http://github.com/alex499/postcss-image-set)>插件提供兼容方案，它在样式表中设置一个基本图像，以防浏览器不支持image-set()。下面的示例使用postcss-at2x插件，表现原理与image-set()类似：  
 > 使用Tutorial17的代码  
-> npm init
-> npm i --save-dev gulp
+> npm init  
+> npm i --save-dev gulp  
 > npm i --save-dev gulp-postcss  
 > npm i --save-dev cssnano  
 > npm i --save-dev autoprefixer  
@@ -77,8 +77,8 @@
 ## 添加响应式文本支持
 
 > 使用Tutorial17的代码  
-> npm init
-> npm i --save-dev gulp
+> npm init  
+> npm i --save-dev gulp  
 > npm i --save-dev gulp-postcss  
 > npm i --save-dev cssnano  
 > npm i --save-dev autoprefixer  

@@ -3,22 +3,22 @@
 
 ## 设置Sass
 
-> 在Node.js命令提示符窗口，切换到项目目录
-> npm install --save-dev gulp-sass
-> 复制上一章的demo下的gulpfile.js，到当前项目下，此处重命名为demo_1
-> npm init
-> npm i --save-dev gulp
-   > npm install --save-dev gulp-postcss  
-   > npm install --save-dev autoprefixer  
-   > npm install --save-dev gulp-sourcemaps  
-   > npm install --save-dev cssnano  
-   > npm install --save-dev gulp-rename  
-   > npm i --save-dev gulp-clean  
-   > npm i --save-dev stylelint  
-   > npm i --save-dev postcss-reporter  
-> npm i --save-dev gulp-dart-sass : node-sass/gulp-sass are deprecated, dart-sass not work from my env, so replaced by gulp-dart-sass via this cmd
+> 在Node.js命令提示符窗口，切换到项目目录  
+> npm install --save-dev gulp-sass  
+> 复制上一章的demo下的gulpfile.js，到当前项目下，此处重命名为demo_1  
+> npm init  
+> npm i --save-dev gulp  
+> npm install --save-dev gulp-postcss  
+> npm install --save-dev autoprefixer  
+> npm install --save-dev gulp-sourcemaps  
+> npm install --save-dev cssnano  
+> npm install --save-dev gulp-rename  
+> npm i --save-dev gulp-clean  
+> npm i --save-dev stylelint  
+> npm i --save-dev postcss-reporter  
+> npm i --save-dev gulp-dart-sass : node-sass/gulp-sass are deprecated, dart-sass not work from my env, so replaced by gulp-dart-sass via this cmd  
 
-更新gulpfile.js:
+更新gulpfile.js:  
 
 ```javascript
 var sass = require('gulp-dart-sass');
