@@ -1,0 +1,16 @@
+{
+  "name": "demo_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Hou",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "postcss-custom-fonts": "^1.0.0"
+  }
+}

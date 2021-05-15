@@ -1,0 +1,15 @@
+{
+  "name": "postcss-custom-fonts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Hou",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^8.2.15",
+    "underscore": "^1.13.1"
+  }
+}

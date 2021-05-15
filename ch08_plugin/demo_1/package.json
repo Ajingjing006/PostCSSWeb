@@ -1,0 +1,16 @@
+{
+  "name": "demo_1",
+  "version": "1.0.0",
+  "description": "Test my first postcss plugin",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Robert Hou",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "postcss-transition-shortcut": "^1.0.0"
+  }
+}

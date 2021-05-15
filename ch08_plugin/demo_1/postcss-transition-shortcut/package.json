@@ -1,0 +1,16 @@
+{
+  "name": "postcss-transition-shortcut",
+  "version": "1.0.0",
+  "description": "[PostCSS] plugin to enhancement of transform plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava && eslint *.js"
+  },
+  "author": "Robert Hou",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "eslint": "^7.26.0",
+    "postcss": "^8.2.15"
+  }
+}
