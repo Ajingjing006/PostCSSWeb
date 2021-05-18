@@ -65,7 +65,7 @@ Sass使用mixins构建样式，但尽量用mixin库，如[Animation.scss](https:
 
 <b>创建一个画廊</b>
 
-> cd demo_2
+> cd demo_2  
 > npm init  
 > npm i --save-dev gulp  
 > npm i --save-dev gulp-postcss  
