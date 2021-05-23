@@ -139,6 +139,10 @@ demo_5通过PostCSS插件实现：
 
 <b style="color:red;">这个转换操作未成功，目前未找到原因和解决方案</b>  
 
+以下两个插件未作测试：  
+> [cwebp-bin](https://github.com/imagemin/cwebp-bin)  
+> [imagemin-webp](https://github.com/imagemin/imagemin-webp)  
+
 ## 操作颜色和调色板
 
 <[postcss-color-palette](https://github.com/zaim/postcss-color-palette)>插件提供一个调色盘，通过颜色名选择一种或多种颜色，然后转换为十六进制的色值  

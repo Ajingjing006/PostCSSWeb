@@ -14,7 +14,7 @@ BEM: Block Element Modifier
 
 1 sass示例  
 
-> npm init
+> npm init  
 > npm i --save-dev gulp  
 > npm i --save-dev gulp-postcss  
 > npm i --save-dev autoprefixer  
