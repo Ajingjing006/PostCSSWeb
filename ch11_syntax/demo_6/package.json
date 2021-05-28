@@ -1,0 +1,19 @@
+{
+  "name": "demo_6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Hou",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.0",
+    "midas": "^2.0.3",
+    "postcss-nested": "^5.0.5",
+    "postcss-scss": "^3.0.5"
+  }
+}
